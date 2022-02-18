@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://virgile-reignier.github.io/CharteDevesset/annotations/6dadc115ec0d1298f6214ea4ddc09451.json" ],
+  "otherContent" : [ "https://virgile-reignier.github.io/CharteDevesset/annotations/6dadc115ec0d1298f6214ea4ddc09451.json", "https://virgile-reignier.github.io/CharteDevesset/annotations/b33772231fb026f90a24f0eee4daab40.json" ],
   "@id" : "https://virgile-reignier.github.io/CharteDevesset/annotations/collection.json",
   "label" : "All annotations loaded in virgile-reignier/CharteDevesset project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
