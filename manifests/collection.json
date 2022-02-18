@@ -1,0 +1,13 @@
+{
+  "id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in virgile-reignier/CharteDevesset project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json",
+    "label" : "Charte de Devesset"
+  } ]
+}
