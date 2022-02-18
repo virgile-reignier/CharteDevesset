@@ -1,0 +1,66 @@
+{
+  "id" : "https://virgile-reignier.github.io/CharteDevesset/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in virgile-reignier/CharteDevesset project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3748,
+    "id" : "https://virgile-reignier.github.io/CharteDevesset/images/Page_1/canvas/",
+    "label" : {
+      "none" : [ "Page_1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://virgile-reignier.github.io/CharteDevesset/images/Page_1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://virgile-reignier.github.io/CharteDevesset/images/Page_1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 118,
+              "height" : 77
+            }, {
+              "width" : 235,
+              "height" : 154
+            }, {
+              "width" : 469,
+              "height" : 308
+            }, {
+              "width" : 937,
+              "height" : 615
+            }, {
+              "width" : 1874,
+              "height" : 1230
+            }, {
+              "width" : 3748,
+              "height" : 2459
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3748,
+            "@id" : "https://virgile-reignier.github.io/CharteDevesset/images/Page_1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2459
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3748,
+          "id" : "https://virgile-reignier.github.io/CharteDevesset/images/Page_1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2459
+        },
+        "target" : "https://virgile-reignier.github.io/CharteDevesset/images/Page_1/canvas/"
+      } ]
+    } ],
+    "height" : 2459
+  } ]
+}
