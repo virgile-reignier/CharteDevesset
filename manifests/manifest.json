@@ -2,7 +2,12 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "Charte de Devesset",
+  "label" : "Carta Devesseti",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/64497404/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Chart regulating the rights of passage of men and animals from Devesset to Saint-Agrève",
@@ -42,7 +47,12 @@
         },
         "on" : "http://5f25aa83-0999-4208-9536-d5b8fd67ae4d"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/64497404/b33772231fb026f90a24f0eee4daab40.json",
+        "label" : "Annotations for canvas Page1"
+      } ]
     }, {
       "@id" : "http://60ab6cae-a4c6-4661-abdd-f93047ffbb99",
       "@type" : "sc:Canvas",
@@ -68,7 +78,12 @@
         },
         "on" : "http://60ab6cae-a4c6-4661-abdd-f93047ffbb99"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/64497404/6dadc115ec0d1298f6214ea4ddc09451.json",
+        "label" : "Annotations for canvas Page2"
+      } ]
     }, {
       "@id" : "http://631c466d-bc0a-4d95-bcac-3821e6140b61",
       "@type" : "sc:Canvas",
@@ -94,7 +109,12 @@
         },
         "on" : "http://631c466d-bc0a-4d95-bcac-3821e6140b61"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/64497404/e3bb72a8a62c1dff807c5bd634032970.json",
+        "label" : "Annotations for canvas Page3"
+      } ]
     }, {
       "@id" : "http://9dfbf9da-ed69-4365-8110-bcafaabcb787",
       "@type" : "sc:Canvas",
@@ -120,7 +140,12 @@
         },
         "on" : "http://9dfbf9da-ed69-4365-8110-bcafaabcb787"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/64497404/eb4585f86136c8bcc57d7a0867fe01b6.json",
+        "label" : "Annotations for canvas Page4"
+      } ]
     } ]
   } ],
   "structures" : [ {
