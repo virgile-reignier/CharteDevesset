@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ratification by William under Ville Neuve de Devesset in the following days or weeks.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ratification by William under Ville Neuve de Devesset in the following days or weeks.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:18:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190298139",
+    "dcterms:modified" : "2022-02-18T14:56:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=221,2134,2923,310"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M229.0907,2444h2911.44963l3.98283,-262.60334l-609.37318,-47.79397l-15.93132,59.74247l-2298.09362,-55.75964z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_93e80d6e-ab3a-4cae-9d62-78d23d966491\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://631c466d-bc0a-4d95-bcac-3821e6140b61"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ratification by the men of Devesset on January 31, 1332.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ratification by the men of Devesset on January 31, 1332.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:16:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190219774",
+    "dcterms:modified" : "2022-02-18T14:55:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=218,791,2921,1410"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M738.38782,790.91874l1116.03266,54.82266l1229.59388,62.65447l54.82266,1276.58473l-610.88104,-54.82266l-7.83181,70.48627l-1272.66882,-62.65447h-1029.88277v-1288.33244l509.06753,-3.9159z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_df1be979-56e0-4d5d-a11a-250b6f65e178\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://631c466d-bc0a-4d95-bcac-3821e6140b61"
+    } ]
+  } ],
+  "@id" : "https://virgile-reignier.github.io/CharteDevesset/annotations/e3bb72a8a62c1dff807c5bd634032970.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
