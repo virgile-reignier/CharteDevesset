@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ratification by William under Ville Neuve de Devesset in the following days or weeks.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ratification by William under Ville Neuve de Devesset in the following days or weeks.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:19:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190343650",
+    "dcterms:modified" : "2022-02-18T14:56:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=166,11,2989,688"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M211.98542,673.34694l1439.32362,-21.37609l1496.32653,46.31487l7.12536,-584.27988l-2989.09038,-103.31778z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8c696850-9431-4e7a-8ebb-0ce97a677324\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9dfbf9da-ed69-4365-8110-bcafaabcb787"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"ql-align-justify\">Ratification by Jacobus de Fay de Chaumargeais on May 29, 1335.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"ql-align-justify\">Ratification by Jacobus de Fay de Chaumargeais on May 29, 1335.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:21:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190484753",
+    "dcterms:modified" : "2022-02-18T14:57:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=213,1122,3035,665"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M352.55847,1787.09637l3.98283,-79.65662l1489.57888,7.96566l1401.95659,39.82831l-11.94849,-621.32167l-521.75089,-11.94849l11.94849,83.63946h-1059.43311l-1445.76774,-15.93132l-7.96566,565.56203z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_0cfd6aca-eddd-4f1a-a28b-070ee171a903\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"34.26168\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9dfbf9da-ed69-4365-8110-bcafaabcb787"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ratification by Jean de Las Chalins de Chaumargeais on May 28, 1335.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ratification by Jean de Las Chalins de Chaumargeais on May 28, 1335.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:20:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190432083",
+    "dcterms:modified" : "2022-02-18T14:56:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=206,660,3033,551"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2730.70595,1210.61999l-19.54462,-84.69336l527.70481,3.25744l-84.69336,-439.75401l-1345.32152,-29.31693l-1602.65905,9.77231l26.0595,521.18993l1387.6682,13.02975z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_01c9b043-92f0-4542-b72f-efb4873f0e7c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9dfbf9da-ed69-4365-8110-bcafaabcb787"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"ql-align-justify\">Ratification by Jean Verilhati de Chaumargeais on May 29, 1335.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"ql-align-justify\">Ratification by Jean Verilhati de Chaumargeais on May 29, 1335.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:22:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190543218",
+    "dcterms:modified" : "2022-02-18T14:57:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=209,1712,3040,536"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M843.08571,2248.61943l-2.86764,-54.48513l1055.29096,-8.60292l610.807,5.73528l691.10087,-45.88222l51.61749,-384.26356l-1485.43673,-45.88222l-1405.14286,-2.86764l-5.73528,77.42624l-143.38192,-34.41166l28.67638,481.76327z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_d3b58ef2-b3f6-4b28-a83e-30962f39a295\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"23.89699\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9dfbf9da-ed69-4365-8110-bcafaabcb787"
+    } ]
+  } ],
+  "@id" : "https://virgile-reignier.github.io/CharteDevesset/annotations/eb4585f86136c8bcc57d7a0867fe01b6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
