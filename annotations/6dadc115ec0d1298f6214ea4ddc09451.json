@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ratifications by Catherine de Bouzols, wife of Armand de Polignac, on August 28, 1331.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ratifications by Catherine de Bouzols, wife of Armand de Polignac, on August 28, 1331.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:14:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645190055069",
+    "dcterms:modified" : "2022-02-18T14:55:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=325,1361,2860,832"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M858.37804,2189.36233l15.93132,-55.75964l1103.24425,19.91416l852.32588,7.96566h354.47198l-3.98283,-796.56625l-1310.35147,-3.98283l7.96566,51.77681l-1553.30418,7.96566l43.81114,772.66926z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b31969ac-02fa-4f50-a416-37b28bd635ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://60ab6cae-a4c6-4661-abdd-f93047ffbb99"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ratification by Armand de Polignac on June 22, 1328.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ratification by Armand de Polignac on June 22, 1328.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:12:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645189922103",
+    "dcterms:modified" : "2022-02-18T14:53:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=309,325,2800,534"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1316.40363,325.39731l1756.42857,15.93132l35.84548,517.76806l-665.13282,-35.84548l-1147.05539,-7.96566l-987.74214,31.86265v-454.04276h1019.60479l-7.96566,-63.7253z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_c5559a83-4f94-4385-9c8f-d3de1def4b82\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.57555\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://60ab6cae-a4c6-4661-abdd-f93047ffbb99"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://dev.gdmrdigital.com/annotations.xhtml?iiif-content=\" target=\"_blank\"> Ratification by Eustache de Lamastre on June 22, 1328.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://dev.gdmrdigital.com/annotations.xhtml?iiif-content=\" target=\"_blank\"> </a>Ratification by Eustache de Lamastre on June 22, 1328.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:13:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645189989708",
+    "dcterms:modified" : "2022-02-18T14:54:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=309,823,2876,597"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3180.36864,1360.93343l-75.67379,-497.8539l-1350.17979,-39.82831l-1445.76774,23.89699l15.93132,569.54487l1198.8322,3.98283l358.45481,-7.96566l-11.94849,-51.77681h605.39035l708.94396,-3.98283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_53af0531-6784-42c2-8993-5dd34c6c8b23\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.15109\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://60ab6cae-a4c6-4661-abdd-f93047ffbb99"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1327, June 6, Berthoux:<p class=\"ql-align-justify\">Agreement between Guillaume Rochette, bayle of the castrum of Saint-Agrève and procurator of Armand de Polignac and Eustache de Lamastre, lords of this castrum, and Renaud de Fay, commander of Devesset concerning the rights of circulation of the men and the herds of Devesset in the castrum and the district of Saint-Agrève.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1327, June 6, Berthoux:</p><p class=\"ql-align-justify\">Agreement between Guillaume Rochette, bayle of the castrum of Saint-Agrève and procurator of Armand de Polignac and Eustache de Lamastre, lords of this castrum, and Renaud de Fay, commander of Devesset concerning the rights of circulation of the men and the herds of Devesset in the castrum and the district of Saint-Agrève.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:09:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645189757511",
+    "dcterms:modified" : "2022-02-18T14:53:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=297,0,2775,395"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M297.46264,0l2724.92036,3.31903l49.78539,335.22163l-1755.76477,-3.31903l9.95708,59.74247l-1022.26002,-3.31903z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_2fae2ddf-5423-4b29-af98-9d4448bf8ea5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"17.13084\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://60ab6cae-a4c6-4661-abdd-f93047ffbb99"
+    } ]
+  } ],
+  "@id" : "https://virgile-reignier.github.io/CharteDevesset/annotations/6dadc115ec0d1298f6214ea4ddc09451.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
