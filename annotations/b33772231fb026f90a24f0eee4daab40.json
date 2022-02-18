@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1327, June 6, Berthoux:<p class=\"ql-align-justify\">Agreement between Guillaume Rochette, bayle of the castrum of Saint-Agrève and procurator of Armand de Polignac and Eustache de Lamastre, lords of this castrum, and Renaud de Fay, commander of Devesset concerning the rights of circulation of the men and the herds of Devesset in the castrum and the district of Saint-Agrève.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1327, June 6, Berthoux:</p><p class=\"ql-align-justify\">Agreement between Guillaume Rochette, bayle of the castrum of Saint-Agrève and procurator of Armand de Polignac and Eustache de Lamastre, lords of this castrum, and Renaud de Fay, commander of Devesset concerning the rights of circulation of the men and the herds of Devesset in the castrum and the district of Saint-Agrève.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/64497404",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-18T13:04:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645189482023",
+    "dcterms:modified" : "2022-02-18T14:52:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://virgile-reignier.github.io/CharteDevesset/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=297,123,3279,2323"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3576.44704,123.12046h-1639.61007v0h-1639.61007v1161.55607v1161.55607h1639.61007h1639.61007v-1161.55607z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_bdfa5f92-a7ce-49f9-a5e2-74d826fcd80c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"38.30218\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5f25aa83-0999-4208-9536-d5b8fd67ae4d"
+    } ]
+  } ],
+  "@id" : "https://virgile-reignier.github.io/CharteDevesset/annotations/b33772231fb026f90a24f0eee4daab40.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
